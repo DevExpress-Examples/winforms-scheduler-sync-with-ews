@@ -52,7 +52,7 @@ Synchronization does not support [changed occurrences](https://docs.devexpress.c
 
 * [Synchronize User Appointments with Microsoft 365 Calendars](https://github.com/DevExpress-Examples/winforms-scheduler-synchronize-appointments-with-outlook-365)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-sync-with-ews&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-sync-with-ews&~~~was_helpful=no)
 
